@@ -19,7 +19,7 @@ Please do not use this code in products (3D printers, CNC etc) that are closed s
 
 Quick Information
 ===================
-This RepRap firmware is a mashup between <a href="https://github.com/kliment/Sprinter">Sprinter</a>, <a href="https://github.com/simen/grbl/tree">grbl</a> and many original parts.
+This RepRap firmware is a mashup between <a href="https://github.com/kliment/Sprinter">Sprinter</a>, <a href="https://github.com/grbl/grbl">grbl</a> and many original parts.
 
 Derived from Sprinter and Grbl by Erik van der Zalm.
 Sprinters lead developers are Kliment and caru.
